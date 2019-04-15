@@ -1,0 +1,70 @@
+﻿VSCode的使用：
+1.下载安装：https://code.visualstudio.com/Download
+
+2.安装常用插件：
+选中左侧工具栏的最后一项（扩展项）--->搜索常用的插件安装
+1）Auto Close Tag ：匹配标签，关闭对应的标签
+   Auto Rename Tag: 自动重命名
+
+2）beautify : 良好的拓展性，可以格式化JSON|JS|HTML|CSS|SCSS,比内置格式化好用
+ 
+   
+3) View In Browser 或 Open In Browser  运行在浏览器中打开文件
+
+4）HTML CSS Support : 这个也是必备插件之一
+
+5）Path Autocomplete : 路径智能补全
+   Path Intellisense ： 路径智能提示.
+   
+6)CSS Peek:使用此插件，你可以追踪至样式表中 CSS 类和 ids 定义的地方。
+当你在 HTML 文件中右键单击选择器时，
+选择“ Go to Definition 和 Peek definition ”选项，
+它便会给你发送样式设置的 CSS 代码。
+
+7)HTML Boilerplate:通过使用 HTML 模版插件，
+你就摆脱了为 HTML 新文件重新编写头部和正文标签的苦恼。
+你只需在空文件中输入 html，并按 Tab 键，即可生成干净的文档结构
+
+
+9)Color Info:这个便捷的插件，将为你提供你在 CSS 中使用颜色的相关信息。
+你只需在颜色上悬停光标，就可以预览色块中色彩模型的（HEX、 RGB、HSL 和 CMYK）相关信息了
+
+10)Live Server:模拟服务器，可以使用http协议打开页面
+   Preview on WebServer:模拟服务器，可以使用http协议打开页面
+
+11)Vetur:VScode中的VUE工具
+12)Vue snippets：Vue的提示插件
+13)vue 2 snippets：Vue2的提示插件
+14) Vue VSCode Snippets
+
+
+15)relative path：相对路径的书写
+使用方法：1）安装relative path插件
+		  2）在需要书写相对路径的文件中通过快捷键ctrl+shift+h,调出文件搜索面板
+		  3）在文件在文件搜索面板中搜索出对应的文件，将光标放置在需要设置路径的文件处，选中所要设置的文件即可、
+		  
+16）路径转换插件：Path Tools
+使用方法：1）安装Path Tools
+		  2）选中工作区中的文件，右击复制文件路径
+		  3）将文件路径填写到对应的位置
+		  4）选中所填写的文件路径，安装快捷键ctrl+shift+p（或快捷键F1）调出命令面板
+		  5）在命令面板中输入
+			path Tools:	Relative: 将路径转换为相对于当前文件的相对路径.
+			Resolve: 将路径转换为完整路径.
+						Windows:将路径转化为windows操作系统的完成路径.
+
+
+
+Angular相关插件：						
+16)Angular 1 JavaScript and TypeScript Snippets for VS Code
+17)Angular1 snippets for shark template		
+
+React相关插件
+18)React/Redux/react-router Snippets 		
+19）Simple React Snippets			
+20）Atom JavaScript Snippet
+21) Reactjs code snippets
+22）Beautify React JavaScript TypeScirpt 插件可以格式化JSX
+
+
+VScode中所有插件都有对应使用文档，只需搜索到对应插件后点击就可查看
